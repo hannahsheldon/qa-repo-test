@@ -1,16 +1,39 @@
-# Summary
+## Description
 
-**What/Why**
+<!-- Provide a clear summary of what this PR does and why. -->
 
-Add your summary here - keep it brief, to the point, and in plain English. [For further
-information about pull requests, check out the GDS
-Way](https://gds-way.cloudapps.digital/standards/pull-requests.html).
+## Type of Change
 
-**Your approach**
+- [ ] New feature
+- [ ] Bug fix
+- [ ] Documentation update
+- [ ] Performance improvement
 
-Why did you choose this approach?
+## Changes Made
 
-**What to review**
+<!-- List the specific changes. Be precise. -->
 
-Include any helpful pointers for the reviewer.
+-
+-
+-
 
+## How to Test
+
+<!-- Step-by-step instructions for reviewers to verify this works. -->
+
+1.
+2.
+3.
+
+## Checklist
+
+- [ ] Code follows the project's style guidelines
+- [ ] Self-reviewed the code for obvious errors
+- [ ] Added or updated tests where applicable
+- [ ] Existing tests pass locally
+- [ ] Updated documentation if needed
+- [ ] No new warnings or console errors introduced
+
+## Related Issues
+
+<!-- Link related tickets or issues. Use "Closes #123" to auto-close. -->
